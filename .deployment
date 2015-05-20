@@ -1,2 +1,2 @@
 [config]
-command = deploy.cmd
+project = /Orchard.Web.1.9/Orchard
